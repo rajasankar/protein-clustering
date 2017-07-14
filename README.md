@@ -6,7 +6,7 @@ This is an approximate Hierarchical clustering created using Machine Learning. C
 Full explanation will be released later. 
 
 Hierarchical Clustering of 7 Million proteins from NCBI data (ftp://ftp.ncbi.nlm.nih.gov/blast/db/FASTA/env_nr.gz)
-can be downloaded from https://www.dropbox.com/s/u80j99y86sk09an/cluster7M.tar.gz?dl=0
+can be downloaded from https://www.kaggle.com/rajasankar/hierarchical-clustering-of-7-million-proteins
 
 This dataset can be used for only non commercial use and research purposes. Contact author for using commerical use. 
 
