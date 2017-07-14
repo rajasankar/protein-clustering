@@ -1,7 +1,7 @@
 # protein-clustering
 Dataset for Hierarchical clustering of NCBI protein data
 
-This is an approximate Hierarchical clustering created using Machine Learning. Comparing all-aginsat-all is practically not possible, approximate methods are used to generate this dataset. This is not based on edit distance or relative score. Score is calculated using streaming methods. 
+This is an approximate Hierarchical clustering created using Machine Learning. Comparing all-against-all is practically not possible, approximate methods are used to generate this dataset. This is not based on edit distance or relative score. Score is calculated using streaming methods. 
 
 Full explanation will be released later. 
 
